@@ -7,10 +7,6 @@ name = "A-PluginTemplate"
 version = "0.0.1"
 zip_url = "https://github.com/Wrench56/A-PluginTemplate/archive/refs/heads/main.zip"
 
-[directories]
-backend = "src/backend"
-frontend = "src/frontend"
-
 [dependencies]
 [dependencies.python]
 version = "^3.7.0"
