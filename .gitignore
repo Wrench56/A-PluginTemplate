@@ -1,2 +1,8 @@
 # Ignore Python cache
 __pycache__
+
+# Ignore Node.js modules directory
+node_modules
+
+# Ignore the package-lock.json file
+package-lock.json
