@@ -1,0 +1,6 @@
+{
+  "name": "@wrench56/a-plugintemplate",
+  "version": "0.0.1",
+  "description": "Plugin template for ArgusDash",
+  "dependencies": {}
+}
